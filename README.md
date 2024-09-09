@@ -223,6 +223,7 @@ Out[32]:
 (array([260., 220., 215., 214., 202.]),
  array([  0., 198., 396., 594., 792., 990.]),
  <BarContainer object of 5 artists>)
+ 
 
 counts=[979,120,12]
 FuelType=('petrol','diesel','cng')
